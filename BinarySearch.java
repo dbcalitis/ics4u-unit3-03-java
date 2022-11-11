@@ -145,8 +145,8 @@ final class BinarySearch {
                         0, numberArray.length - 1);
 
                 // Outputing the results of the search
-                System.out.println();
                 System.out.println("Your number is in index: " + searchResult);
+                System.out.println("\nDone.");
             }
 
             // Catches and tells the user that an error occured
